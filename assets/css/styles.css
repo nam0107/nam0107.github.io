@@ -81,6 +81,9 @@
  *  Defult CSS 
  * -------------------
  */
+ .lienhe{
+    margin-bottom: 20px;
+ }
 html {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased; }
@@ -1650,7 +1653,9 @@ body {
   .mh-footer-address .mh-address-footer-item {
     padding: 30px;
     text-align: center;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    height: 278px;
+    }
     .mh-footer-address .mh-address-footer-item h4 {
       margin-bottom: 20px; }
     .mh-footer-address .mh-address-footer-item address {
